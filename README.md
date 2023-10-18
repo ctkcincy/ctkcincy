@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ctkcincy
 - 👀 I’m interested in modernizing old religious works for contemporary use
 - 🌱 I’m currently learning html and css
-- 📫 Reach me at zach.frick@ctkcincy.com
 
 <!---
 ctkcincy/ctkcincy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
